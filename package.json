@@ -55,6 +55,7 @@
     "q": "^1.1.2",
     "readable-stream": "^1.0.33",
     "request": "^2.51.0",
+    "requestretry": "3.0.1",
     "underscore": "^1.7.0",
     "xml2js": "^0.4.4"
   },
